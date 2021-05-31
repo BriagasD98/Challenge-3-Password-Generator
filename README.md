@@ -9,6 +9,8 @@ got a secure password!
 My assignment was to create a functional password generator. The website asks the user 5 prompts that have to
 do with the details of the password to be generated. Details such as character length, special characters, numeric characters 
 and upper/lower case characters can be chosen by the user.
+![Screenshot (14)](https://user-images.githubusercontent.com/83102464/120134607-1cf3ea80-c194-11eb-8adf-9db96f8f795a.png)
+
 
 ## Built With
 * HTML
@@ -16,7 +18,7 @@ and upper/lower case characters can be chosen by the user.
 * Javascript
 
 ## Website
-
+https://briagasd98.github.io/Challenge-3-Password-Generator/
 
 ## Contribution
 🧠Designed & Built by David Briagas.
