@@ -1,5 +1,3 @@
-
-
 // Assignment code here
 const lowerCaseChar = [
     "a",
@@ -153,7 +151,7 @@ function generatePassword() {
     }
     
     console.log(combinedArray);
-    return userSelectionOptions;
+    return combinedArray;
 }
 
 function generateRandompassword(array, length) {
@@ -167,9 +165,9 @@ function generateRandompassword(array, length) {
 
 // Write password to the #password input
 function writePassword() {
+    
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
 
   passwordText.value = password;
-
 }
